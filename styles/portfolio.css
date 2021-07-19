@@ -5,22 +5,6 @@
   --default-font-family: "Poppins", sans-serif;
 }
 
-.first-color {
-  background: #e8e8e8;
-}
-
-.second-color {
-  background: #5588a3;
-}
-
-.third-color {
-  background: #145374;
-}
-
-.fourth-color {
-  background: #00334e;
-}
-
 body {
   font-family: var(--default-font-family);
 }
@@ -216,5 +200,8 @@ footer .social-links a:hover {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+  footer .email-link {
+    font-size: 18px;
   }
 }
